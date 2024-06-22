@@ -1,4 +1,4 @@
 # demo
 My first github repository
 <br>
-Author: Hetvi Shah
+Author: Hetvi Kaushal Shah
